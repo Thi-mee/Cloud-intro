@@ -1,6 +1,6 @@
 # Cloud Engineering - Scaling the Cloudy Mountains
 
-Learning the intricacies of cloud computing on your own can be quite challenging. The vast array of concepts, services, and technologies can seem overwhelming, leaving you lost in a sea of documentation and technical terms.  Have you ever found yourself lost in a maze of technical jargon and bewildering documentation? Navigating through the cloud landscape without guidance may lead to frustration and a slower learning curve.
+Learning the intricacies of cloud computing on your own can be quite challenging. The vast array of concepts, services, and technologies can seem overwhelming, leaving you lost in a sea of documentation and technical terms. Navigating through the cloud landscape without guidance may lead to frustration and a slower learning curve.
 
 I've been there. On my journey up the mountains, I went through a lot; from falling into traps to fighting grizzly bears with my bare hands. However, fear not! With the right resources, a structured approach, and a bit of persistence, you can conquer this complexity and unlock the boundless possibilities of the cloud. Remember, even the most experienced cloud engineers began as beginners. 
 
