@@ -79,7 +79,6 @@ Platform as a service (PaaS) is a complete development and deployment environmen
 
 - [Platform as a Service (PaaS)](https://azure.microsoft.com/en-us/overview/what-is-paas/)
 - [Platform as a Service (PaaS)](https://aws.amazon.com/what-is-paas/)
-- [Platform as a Service (PaaS)](https://cloud.google.com/appengine/docs/standard/python/an-overview-of-app-engine)
 
 #### Software as a Service (SaaS)
 
