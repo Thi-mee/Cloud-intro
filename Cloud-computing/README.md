@@ -1,11 +1,19 @@
 # Cloud Computing
 
+Imagine you have a computer or a smartphone, and you use it to store all your important files, like photos, videos, and documents. Normally, these files are stored on the device itself, which means if something were to happen to your device, like it gets lost or damaged, you would lose all your data. Additionally, accessing your files from another device can be challenging.
+
+Now, let's introduce cloud computing. Instead of storing your files on your device, you can store them on remote servers, which are powerful computers located in data centers around the world. These servers are connected to the internet and are managed by cloud service providers like Amazon Web Services (AWS), Google Cloud, or Microsoft Azure.
+
+When you store your files in the cloud, they are no longer tied to a single device. You can access them from anywhere with an internet connection using various devices such as your computer, smartphone, or tablet. This means you can easily view, edit, and share your files with others, regardless of the device you're using.
+
+But cloud computing offers much more than just file storage. It provides a wide range of services and functionalities that individuals and businesses can benefit from. For example, you can use cloud computing to host your website, run your business applications, or even build and train machine learning models.
+
 ## Table of Content
 
 - [Cloud Computing](#cloud-computing)
   - [Table of Content](#table-of-content)
-  - [What is Cloud Computing?](#what-is-cloud-computing)
-  - [Cloud Computing Models](#cloud-computing-models)
+  - [What is Cloud Computing?](#what-is-cloud-computing-so-this-is-the-trailhead-huh)
+  - [Cloud Computing Models](#cloud-computing-models-a-fork-in-the-road-what-to-do)
     - [Deployment Models](#deployment-models)
       - [Public Cloud](#public-cloud)
       - [Private Cloud](#private-cloud)
@@ -23,20 +31,21 @@
   - [Cloud Computing Certifications](#cloud-computing-certifications)
   - [Cloud Computing Resources](#cloud-computing-resources)
 
-## What is Cloud Computing?
+## What is Cloud Computing? (So this is the trailhead huh?)
 
-The cloud has become a key enabler for organisations with benefits such as high availability, unlimited capacity \
-, on-demand scalability, cost savings, and flexibility. Cloud computing is the on-demand availability of computer \
-system resources, especially data storage and computing power, without direct active management by the user. The \
-term is generally used to describe data centers available to many users over the Internet. Large clouds, predominant \
-today, often have functions distributed over multiple locations from central servers. If the connection to the user \
-is relatively close, it may be designated an edge server.
+The cloud has transformed how organizations operate, offering numerous advantages like reliability, vast storage capacity, scalability, cost efficiency, and flexibility. Cloud computing provides easy access to computer resources, such as data storage and processing power, without requiring active management from the user. It refers to data centers accessible to multiple users via the internet. These data centers, known as clouds, are often spread across different locations to ensure efficient operations. If the user's connection is nearby, there may be a specialized server called an edge server.
 
-- [What is Cloud Computing](https://aws.amazon.com/what-is-cloud-computing/)
+> Go through the following resources so not to trip on stones:
+>
+> - [What is Cloud Computing? - Google](https://cloud.google.com/learn/what-is-cloud-computing)
+> - [What is Cloud Computing? - Oracle](https://www.oracle.com/ng/cloud/what-is-cloud-computing/)
 
-## Cloud Computing Models
+## Cloud Computing Models (A fork in the road! What to do?)
 
-[A high level understanding of Cloud Computing models](https://aws.amazon.com/types-of-cloud-computing/)
+There are 2 classifications of cloud computing models:
+
+- Deployment Models
+- Service Models
 
 ### Deployment Models
 
