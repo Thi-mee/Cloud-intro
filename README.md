@@ -1,14 +1,15 @@
-# AWS Intro
+# Cloud Engineering - Scaling the Cloudy Mountains
 
-## Table of Content
+Learning the intricacies of cloud computing on your own can be quite challenging. The vast array of concepts, services, and technologies can seem overwhelming, leaving you lost in a sea of documentation and technical terms.  Have you ever found yourself lost in a maze of technical jargon and bewildering documentation? Navigating through the cloud landscape without guidance may lead to frustration and a slower learning curve.
 
-- [AWS Intro](#aws-intro)
-  - [Table of Content](#table-of-content)
-  - [What is AWS?](#what-is-aws)
-  - [Intro to Cloud Computing?](/Cloud-computing/README.md)
+I've been there. On my journey up the mountains, I went through a lot; from falling into traps to fighting grizzly bears with my bare hands. However, fear not! With the right resources, a structured approach, and a bit of persistence, you can conquer this complexity and unlock the boundless possibilities of the cloud. Remember, even the most experienced cloud engineers began as beginners. 
 
-## What is AWS?
+In this beginner's guide, we'll unravel the mysteries of the cloud in a clear and relatable manner. Say goodbye to those perplexing moments and prepare for an enlightening journey through the world of cloud engineering
 
-AWS stands for Amazon Web Services. It is a cloud computing platform that provides a wide range of services. It is a secure cloud services platform, offering compute power, database storage, content delivery and other functionality to help businesses scale and grow.
+So, join us on this exciting journey as we demystify the cloud, step by step. By the time we reach the peak, you'll be equipped with the knowledge and confidence to navigate the cloud with ease.
 
+## Here's the Big map of the Cloudy Mountains (Table of Content)
 
+- [Intro to Cloud Computing? (Why are we even climbing this)](/Cloud-computing/README.md)
+- [Foundational and Compute Services (Oh! So that's the big guy over there)](/Foundational-and-compute-services/README.md)
+- [Storage and Content Delivery (I think I saw a cave over there)](/Storage-and-content-delivery/README.md)
